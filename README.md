@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dmcconeghy.
 - 👀 I’m interested in using websites to help people learn.
-- 🌱 I’m currently enrolled in a Software Engineering bootcamp with Springboard. 
-- 🌱 Earlier this year I finished Colt Steele's Udemy "Web Developer Bootcamp 2021."
+- 🌱 I finished a 9 month full-stack software engineering bootcamp with Springboard. 
+- 🌱 I finished Colt Steele's Udemy "Web Developer Bootcamp 2021."
 - 💞️ I’m looking to collaborate on project websites to sharpen my full stack development tools.
 - 🔥 Check out my capstone project [Flashback](https://flashback-dwm.herokuapp.com/) -- a Python-based Billboard Music Chart explorer. 
 - 📫 david.mcconeghy@gmail.com
