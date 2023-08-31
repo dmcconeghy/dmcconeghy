@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @dmcconeghy.
-- 👀 I’m a full-stack developer looking for his first role in 2023.
+- 👀 I’m a the techincal specialist for a academic press. 
 - 🌱 In 2022 I finished a 9 month full-stack software engineering bootcamp with Springboard. 
 - 🌱 In 2021 I finished Colt Steele's Udemy "Web Developer Bootcamp 2021."
 - 📚 Before that I taught History and World Religions at colleges in California and Massachusetts. 
-- 🔥 Check out my capstone project [Flashback](https://flashback-dwm.herokuapp.com/) -- a Python-based Billboard Music Chart explorer. 
 - 📫 david.mcconeghy@gmail.com
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
