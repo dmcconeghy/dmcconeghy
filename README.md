@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dmcconeghy.
-- 👀 I’m a techincal specialist for an academic press. 
-- 🌱 In 2022 I finished a 9 month full-stack software engineering bootcamp with Springboard. 
-- 🌱 In 2021 I finished Colt Steele's Udemy "Web Developer Bootcamp 2021."
-- 📚 Before that I taught History and World Religions at colleges in California and Massachusetts. 
+- 👀 I’m a technical specialist for an academic press.   
+
 - 📫 david.mcconeghy@gmail.com
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
